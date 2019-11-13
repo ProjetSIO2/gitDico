@@ -1,0 +1,11 @@
+.idea/
+
+# Les ligne commençant par '#' sont des commentaires.
+# Ignorer tous les fichiers nommés bref.txt
+#bref.txt
+
+# Ignorer tous les fichiers html
+#*.html
+
+# à l'exception de bref.html qui est maintenu à la main
+#!bref.html
