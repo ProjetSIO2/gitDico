@@ -2,8 +2,9 @@
 /** 
  * Classe d'accès aux données.  
  * Utilise les services de la classe PDO
- * @author nomEtudiant
+ * @author arnould, chartier
  */
+
 
 class PdoDico{   		
       	private static $serveur='mysql:host=localhost';
